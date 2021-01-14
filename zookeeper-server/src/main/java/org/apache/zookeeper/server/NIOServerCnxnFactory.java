@@ -720,6 +720,7 @@ public class NIOServerCnxnFactory extends ServerCnxnFactory {
     public void start() {
         stopped = false;
         if (workerPool == null) {
+            // 工作者
             workerPool = new WorkerService("NIOWorker", numWorkerThreads, false);
         }
         for (SelectorThread thread : selectorThreads) {
