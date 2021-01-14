@@ -45,4 +45,4 @@ We always welcome new contributors to the project! See [How to Contribute](https
 
 # zookeeper 核心选流程图
 
-![zookeeper 核心选流程图](http://picture.kaisesai.com/zookeeper 核心选举流程.png)
+![zookeeper 核心选流程图](http://picture.kaisesai.com/zookeeper%20%E6%A0%B8%E5%BF%83%E9%80%89%E4%B8%BE%E6%B5%81%E7%A8%8B.jpg)
